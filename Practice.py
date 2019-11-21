@@ -5,7 +5,7 @@ Created on Fri Nov  1 13:49:14 2019
 @author: Abhijit
 """
 #%%
-Rifa Maknojia
+
 class Shape:
     def __init__(self, name):
         self.name = name
